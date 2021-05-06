@@ -1,0 +1,18 @@
+{
+  "Roads": [
+    {
+      "Name": "Uptown",
+      "Length": 0.0,
+      "XLocation": -0.09,
+      "YLocation": 0.18,
+      "Heading": 0
+    },
+    {
+      "Name": "Crosstown",
+      "Length": -0.09,
+      "XLocation": 0.0,
+      "YLocation": 0.18,
+      "Heading": 2
+    }
+  ]
+}
